@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfonnect",
+        "uuid": 13282953,
+        "checksum": "uqkfk7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
